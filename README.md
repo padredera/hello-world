@@ -1,5 +1,5 @@
 # hello-world
-マンガでわかるGit　7・8話実践編
+マンガでわかるGit　7・8話実践編<br>
 pullできるか試したい（これはGitHubのエディタで入力）
 
 # Links
